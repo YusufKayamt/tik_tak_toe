@@ -1,0 +1,20 @@
+C:\Users\kayay\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\kayay\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\kayay\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\kayay\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\kayay\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\kayay\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\kayay\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\kayay\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\kayay\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\kayay\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\NTP LAB\xox\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\NTP LAB\xox\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\NTP LAB\xox\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\NTP LAB\xox\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\NTP LAB\xox\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\NTP LAB\xox\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\NTP LAB\xox\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\NTP LAB\xox\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\NTP LAB\xox\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\NTP LAB\xox\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
